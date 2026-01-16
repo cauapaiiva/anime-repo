@@ -1,0 +1,9 @@
+﻿{
+    "id":  "provider-203",
+    "name":  "Aniyomi: Hentai Saturn",
+    "description":  "Torrent provider for anime",
+    "type":  "torrent",
+    "author":  "Converted",
+    "language":  "multi",
+    "version":  "14.5"
+}

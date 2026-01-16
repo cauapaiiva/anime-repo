@@ -1,0 +1,9 @@
+﻿{
+    "id":  "provider-99",
+    "name":  "Aniyomi: My Running Man",
+    "description":  "Torrent provider for anime",
+    "type":  "torrent",
+    "author":  "Converted",
+    "language":  "multi",
+    "version":  "14.8"
+}

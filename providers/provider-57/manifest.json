@@ -1,0 +1,9 @@
+﻿{
+    "id":  "provider-57",
+    "name":  "Aniyomi: Movie4k",
+    "description":  "Torrent provider for anime",
+    "type":  "torrent",
+    "author":  "Converted",
+    "language":  "multi",
+    "version":  "14.16"
+}

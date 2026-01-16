@@ -1,0 +1,9 @@
+﻿{
+    "id":  "provider-161",
+    "name":  "Aniyomi: MundoDonghua",
+    "description":  "Torrent provider for anime",
+    "type":  "torrent",
+    "author":  "Converted",
+    "language":  "multi",
+    "version":  "14.37"
+}

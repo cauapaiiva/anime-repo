@@ -1,0 +1,9 @@
+﻿{
+    "id":  "provider-187",
+    "name":  "Aniyomi: Wiflix",
+    "description":  "Torrent provider for anime",
+    "type":  "torrent",
+    "author":  "Converted",
+    "language":  "multi",
+    "version":  "14.23"
+}

@@ -1,0 +1,9 @@
+﻿{
+    "id":  "provider-62",
+    "name":  "Aniyomi: AnimeGG",
+    "description":  "Torrent provider for anime",
+    "type":  "torrent",
+    "author":  "Converted",
+    "language":  "multi",
+    "version":  "14.1"
+}

@@ -1,0 +1,9 @@
+﻿{
+    "id":  "provider-33",
+    "name":  "Aniyomi: Anime Blkom",
+    "description":  "Torrent provider for anime",
+    "type":  "torrent",
+    "author":  "Converted",
+    "language":  "multi",
+    "version":  "14.21"
+}

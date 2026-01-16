@@ -1,0 +1,2048 @@
+﻿{
+    "description":  "Custom anime torrent provider repository for Seanime",
+    "version":  "1.0.0",
+    "author":  "Converted Repository",
+    "name":  "Anime Repository for Seanime",
+    "extensions":  [
+                       {
+                           "id":  "provider-1",
+                           "name":  "Aniyomi: AnimeOnsen",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.7"
+                       },
+                       {
+                           "id":  "provider-2",
+                           "name":  "Aniyomi: AnimeWorld India",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.20"
+                       },
+                       {
+                           "id":  "provider-3",
+                           "name":  "Aniyomi: AnimeXin",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.18"
+                       },
+                       {
+                           "id":  "provider-4",
+                           "name":  "Aniyomi: AniZone",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.8"
+                       },
+                       {
+                           "id":  "provider-5",
+                           "name":  "Aniyomi: ChineseAnime",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.23"
+                       },
+                       {
+                           "id":  "provider-6",
+                           "name":  "Aniyomi: Debrid Index",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.1"
+                       },
+                       {
+                           "id":  "provider-7",
+                           "name":  "Aniyomi: Google Drive",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.17"
+                       },
+                       {
+                           "id":  "provider-8",
+                           "name":  "Aniyomi: GoogleDriveIndex",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.7"
+                       },
+                       {
+                           "id":  "provider-9",
+                           "name":  "Aniyomi: Hentai Torrent (Torrent)",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.3"
+                       },
+                       {
+                           "id":  "provider-10",
+                           "name":  "Aniyomi: Jable",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.2"
+                       },
+                       {
+                           "id":  "provider-11",
+                           "name":  "Aniyomi: JavGG",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.13"
+                       },
+                       {
+                           "id":  "provider-12",
+                           "name":  "Aniyomi: Jav Guru",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.35"
+                       },
+                       {
+                           "id":  "provider-13",
+                           "name":  "Aniyomi: Jellyfin",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.30"
+                       },
+                       {
+                           "id":  "provider-14",
+                           "name":  "Aniyomi: LMAnime",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.17"
+                       },
+                       {
+                           "id":  "provider-15",
+                           "name":  "Aniyomi: MissAV",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.21"
+                       },
+                       {
+                           "id":  "provider-16",
+                           "name":  "Aniyomi: MyReadingManga",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.1"
+                       },
+                       {
+                           "id":  "provider-17",
+                           "name":  "Aniyomi: Newgrounds",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.1"
+                       },
+                       {
+                           "id":  "provider-18",
+                           "name":  "Aniyomi: Nyaa (Torrent)",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.3"
+                       },
+                       {
+                           "id":  "provider-19",
+                           "name":  "Aniyomi: PTorrent (Torrent)",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.3"
+                       },
+                       {
+                           "id":  "provider-20",
+                           "name":  "Aniyomi: RouVideo",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.10"
+                       },
+                       {
+                           "id":  "provider-21",
+                           "name":  "Aniyomi: ShabakatyCinemana",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.3"
+                       },
+                       {
+                           "id":  "provider-22",
+                           "name":  "Aniyomi: StreamingCommunity",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.14"
+                       },
+                       {
+                           "id":  "provider-23",
+                           "name":  "Aniyomi: Stremio",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.9"
+                       },
+                       {
+                           "id":  "provider-24",
+                           "name":  "Aniyomi: Subsplease",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.5"
+                       },
+                       {
+                           "id":  "provider-25",
+                           "name":  "Aniyomi: Sudatchi",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.20"
+                       },
+                       {
+                           "id":  "provider-26",
+                           "name":  "Aniyomi: Sudatchi NSFW",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.20"
+                       },
+                       {
+                           "id":  "provider-27",
+                           "name":  "Aniyomi: SupJav",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.23"
+                       },
+                       {
+                           "id":  "provider-28",
+                           "name":  "Aniyomi: Torrentio (Torrent / Debrid)",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.5"
+                       },
+                       {
+                           "id":  "provider-29",
+                           "name":  "Aniyomi: Torrentio Anime (Torrent / Debrid)",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.17"
+                       },
+                       {
+                           "id":  "provider-30",
+                           "name":  "Aniyomi: Xnxx",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.3"
+                       },
+                       {
+                           "id":  "provider-31",
+                           "name":  "Aniyomi: Xvideos",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.3"
+                       },
+                       {
+                           "id":  "provider-32",
+                           "name":  "Aniyomi: Anime4up",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.71"
+                       },
+                       {
+                           "id":  "provider-33",
+                           "name":  "Aniyomi: Anime Blkom",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.21"
+                       },
+                       {
+                           "id":  "provider-34",
+                           "name":  "Aniyomi: Animeiat",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.1"
+                       },
+                       {
+                           "id":  "provider-35",
+                           "name":  "Aniyomi: AnimeLek",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.35"
+                       },
+                       {
+                           "id":  "provider-36",
+                           "name":  "Aniyomi: Animerco",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.50"
+                       },
+                       {
+                           "id":  "provider-37",
+                           "name":  "Aniyomi: ArabAnime",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.2"
+                       },
+                       {
+                           "id":  "provider-38",
+                           "name":  "Aniyomi: Arab Seed",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.25"
+                       },
+                       {
+                           "id":  "provider-39",
+                           "name":  "Aniyomi: asia2tv",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.29"
+                       },
+                       {
+                           "id":  "provider-40",
+                           "name":  "Aniyomi: Cimaleek",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.8"
+                       },
+                       {
+                           "id":  "provider-41",
+                           "name":  "Aniyomi: Egy Dead",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.23"
+                       },
+                       {
+                           "id":  "provider-42",
+                           "name":  "Aniyomi: FASELHD",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.25"
+                       },
+                       {
+                           "id":  "provider-43",
+                           "name":  "Aniyomi: MY CIMA",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.28"
+                       },
+                       {
+                           "id":  "provider-44",
+                           "name":  "Aniyomi: Okanime",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.19"
+                       },
+                       {
+                           "id":  "provider-45",
+                           "name":  "Aniyomi: WIT ANIME",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.56"
+                       },
+                       {
+                           "id":  "provider-46",
+                           "name":  "Aniyomi: Anime-Base",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.40"
+                       },
+                       {
+                           "id":  "provider-47",
+                           "name":  "Aniyomi: Anime-Loads",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.23"
+                       },
+                       {
+                           "id":  "provider-48",
+                           "name":  "Aniyomi: Anime-Stream",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.2"
+                       },
+                       {
+                           "id":  "provider-49",
+                           "name":  "Aniyomi: AnimeToast",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.28"
+                       },
+                       {
+                           "id":  "provider-50",
+                           "name":  "Aniyomi: AniWorld",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.31"
+                       },
+                       {
+                           "id":  "provider-51",
+                           "name":  "Aniyomi: Cinemathek",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.33"
+                       },
+                       {
+                           "id":  "provider-52",
+                           "name":  "Aniyomi: Einfach",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.26"
+                       },
+                       {
+                           "id":  "provider-53",
+                           "name":  "Aniyomi: FilmPalast",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.24"
+                       },
+                       {
+                           "id":  "provider-54",
+                           "name":  "Aniyomi: Kinoking",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.32"
+                       },
+                       {
+                           "id":  "provider-55",
+                           "name":  "Aniyomi: Kool",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.19"
+                       },
+                       {
+                           "id":  "provider-56",
+                           "name":  "Aniyomi: Moflix-Stream",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.23"
+                       },
+                       {
+                           "id":  "provider-57",
+                           "name":  "Aniyomi: Movie4k",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.16"
+                       },
+                       {
+                           "id":  "provider-58",
+                           "name":  "Aniyomi: Serienstream",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.30"
+                       },
+                       {
+                           "id":  "provider-59",
+                           "name":  "Aniyomi: AllAnime",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.43"
+                       },
+                       {
+                           "id":  "provider-60",
+                           "name":  "Aniyomi: AllAnimeChi",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.19"
+                       },
+                       {
+                           "id":  "provider-61",
+                           "name":  "Aniyomi: AniList",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.10"
+                       },
+                       {
+                           "id":  "provider-62",
+                           "name":  "Aniyomi: AnimeGG",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.1"
+                       },
+                       {
+                           "id":  "provider-63",
+                           "name":  "Aniyomi: AnimeKai",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.10"
+                       },
+                       {
+                           "id":  "provider-64",
+                           "name":  "Aniyomi: AnimeKhor",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.15"
+                       },
+                       {
+                           "id":  "provider-65",
+                           "name":  "Aniyomi: Animenosub",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.16"
+                       },
+                       {
+                           "id":  "provider-66",
+                           "name":  "Aniyomi: AnimeOwl (Dead)",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.30"
+                       },
+                       {
+                           "id":  "provider-67",
+                           "name":  "Aniyomi: AnimePahe",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.33"
+                       },
+                       {
+                           "id":  "provider-68",
+                           "name":  "Aniyomi: AnimeParadise",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.1"
+                       },
+                       {
+                           "id":  "provider-69",
+                           "name":  "Aniyomi: AnimeTake",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.12"
+                       },
+                       {
+                           "id":  "provider-70",
+                           "name":  "Aniyomi: AniPlay",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.29"
+                       },
+                       {
+                           "id":  "provider-71",
+                           "name":  "Aniyomi: AniWatchtv",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.17"
+                       },
+                       {
+                           "id":  "provider-72",
+                           "name":  "Aniyomi: Aniwave.se",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.5"
+                       },
+                       {
+                           "id":  "provider-73",
+                           "name":  "Aniyomi: AsiaFlix",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.25"
+                       },
+                       {
+                           "id":  "provider-74",
+                           "name":  "Aniyomi: BestDubbedAnime",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.4"
+                       },
+                       {
+                           "id":  "provider-75",
+                           "name":  "Aniyomi: BLZone",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.1"
+                       },
+                       {
+                           "id":  "provider-76",
+                           "name":  "Aniyomi: DonghuaStream",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.17"
+                       },
+                       {
+                           "id":  "provider-77",
+                           "name":  "Aniyomi: DopeBox",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.39"
+                       },
+                       {
+                           "id":  "provider-78",
+                           "name":  "Aniyomi: DopeFlix",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.23"
+                       },
+                       {
+                           "id":  "provider-79",
+                           "name":  "Aniyomi: DramaFull",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.2"
+                       },
+                       {
+                           "id":  "provider-80",
+                           "name":  "Aniyomi: edytjedhgmdhm",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.5"
+                       },
+                       {
+                           "id":  "provider-81",
+                           "name":  "Aniyomi: haho.moe",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.10"
+                       },
+                       {
+                           "id":  "provider-82",
+                           "name":  "Aniyomi: hanime.tv",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.18"
+                       },
+                       {
+                           "id":  "provider-83",
+                           "name":  "Aniyomi: HentaiMama",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.7"
+                       },
+                       {
+                           "id":  "provider-84",
+                           "name":  "Aniyomi: HexaWatch",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.3"
+                       },
+                       {
+                           "id":  "provider-85",
+                           "name":  "Aniyomi: Hstream",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.10"
+                       },
+                       {
+                           "id":  "provider-86",
+                           "name":  "Aniyomi: JPFilms",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.3"
+                       },
+                       {
+                           "id":  "provider-87",
+                           "name":  "Aniyomi: Kaido",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.24"
+                       },
+                       {
+                           "id":  "provider-88",
+                           "name":  "Aniyomi: Kawaiifu",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.5"
+                       },
+                       {
+                           "id":  "provider-89",
+                           "name":  "Aniyomi: Kayoanime",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.12"
+                       },
+                       {
+                           "id":  "provider-90",
+                           "name":  "Aniyomi: KickAssAnime",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.56"
+                       },
+                       {
+                           "id":  "provider-91",
+                           "name":  "Aniyomi: KimoiTV",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.1"
+                       },
+                       {
+                           "id":  "provider-92",
+                           "name":  "Aniyomi: KissAnime",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.10"
+                       },
+                       {
+                           "id":  "provider-93",
+                           "name":  "Aniyomi: KissKH",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.5"
+                       },
+                       {
+                           "id":  "provider-94",
+                           "name":  "Aniyomi: LuciferDonghua",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.14"
+                       },
+                       {
+                           "id":  "provider-95",
+                           "name":  "Aniyomi: Mapple",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.1"
+                       },
+                       {
+                           "id":  "provider-96",
+                           "name":  "Aniyomi: MovHub",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.1"
+                       },
+                       {
+                           "id":  "provider-97",
+                           "name":  "Aniyomi: MoviesMod",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.1"
+                       },
+                       {
+                           "id":  "provider-98",
+                           "name":  "Aniyomi: Myanime",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.10"
+                       },
+                       {
+                           "id":  "provider-99",
+                           "name":  "Aniyomi: My Running Man",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.8"
+                       },
+                       {
+                           "id":  "provider-100",
+                           "name":  "Aniyomi: 9AnimeTV",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.14"
+                       },
+                       {
+                           "id":  "provider-101",
+                           "name":  "Aniyomi: NoobSubs",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.1"
+                       },
+                       {
+                           "id":  "provider-102",
+                           "name":  "Aniyomi: Oppai Stream",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.6"
+                       },
+                       {
+                           "id":  "provider-103",
+                           "name":  "Aniyomi: PinoyMoviePedia",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.6"
+                       },
+                       {
+                           "id":  "provider-104",
+                           "name":  "Aniyomi: PutLocker",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.15"
+                       },
+                       {
+                           "id":  "provider-105",
+                           "name":  "Aniyomi: Rule34Video",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.9"
+                       },
+                       {
+                           "id":  "provider-106",
+                           "name":  "Aniyomi: SFlix",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.38"
+                       },
+                       {
+                           "id":  "provider-107",
+                           "name":  "Aniyomi: SuperStream",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.11"
+                       },
+                       {
+                           "id":  "provider-108",
+                           "name":  "Aniyomi: Tokuzilla",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.27"
+                       },
+                       {
+                           "id":  "provider-109",
+                           "name":  "Aniyomi: UHD Movies",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.19"
+                       },
+                       {
+                           "id":  "provider-110",
+                           "name":  "Aniyomi: UniqueStream",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.6"
+                       },
+                       {
+                           "id":  "provider-111",
+                           "name":  "Aniyomi: WcoAnimeDub",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.4"
+                       },
+                       {
+                           "id":  "provider-112",
+                           "name":  "Aniyomi: WcoAnimeSub",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.4"
+                       },
+                       {
+                           "id":  "provider-113",
+                           "name":  "Aniyomi: WcoForever",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.4"
+                       },
+                       {
+                           "id":  "provider-114",
+                           "name":  "Aniyomi: Wcofun",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.18"
+                       },
+                       {
+                           "id":  "provider-115",
+                           "name":  "Aniyomi: WCOStream",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.9"
+                       },
+                       {
+                           "id":  "provider-116",
+                           "name":  "Aniyomi: WcoTv",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.4"
+                       },
+                       {
+                           "id":  "provider-117",
+                           "name":  "Aniyomi: XPrime",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.1"
+                       },
+                       {
+                           "id":  "provider-118",
+                           "name":  "Aniyomi: YFlix",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.2"
+                       },
+                       {
+                           "id":  "provider-119",
+                           "name":  "Aniyomi: HiAnime",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.71"
+                       },
+                       {
+                           "id":  "provider-120",
+                           "name":  "Aniyomi: AnimeBum",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.11"
+                       },
+                       {
+                           "id":  "provider-121",
+                           "name":  "Aniyomi: Animefenix",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.66"
+                       },
+                       {
+                           "id":  "provider-122",
+                           "name":  "Aniyomi: AnimeFLV",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.69"
+                       },
+                       {
+                           "id":  "provider-123",
+                           "name":  "Aniyomi: AnimeID",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.21"
+                       },
+                       {
+                           "id":  "provider-124",
+                           "name":  "Aniyomi: Animejl",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.13"
+                       },
+                       {
+                           "id":  "provider-125",
+                           "name":  "Aniyomi: AnimeLatinoHD",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.45"
+                       },
+                       {
+                           "id":  "provider-126",
+                           "name":  "Aniyomi: AnimeMovil",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.40"
+                       },
+                       {
+                           "id":  "provider-127",
+                           "name":  "Aniyomi: Animenix",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.17"
+                       },
+                       {
+                           "id":  "provider-128",
+                           "name":  "Aniyomi: AnimeOnline.Ninja",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.55"
+                       },
+                       {
+                           "id":  "provider-129",
+                           "name":  "Aniyomi: Animeyt",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.14"
+                       },
+                       {
+                           "id":  "provider-130",
+                           "name":  "Aniyomi: AnimeYT.es",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.16"
+                       },
+                       {
+                           "id":  "provider-131",
+                           "name":  "Aniyomi: AsiaLiveAction",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.42"
+                       },
+                       {
+                           "id":  "provider-132",
+                           "name":  "Aniyomi: az-animex",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.2"
+                       },
+                       {
+                           "id":  "provider-133",
+                           "name":  "Aniyomi: BeatZ Anime",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.1"
+                       },
+                       {
+                           "id":  "provider-134",
+                           "name":  "Aniyomi: Cine24h",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.18"
+                       },
+                       {
+                           "id":  "provider-135",
+                           "name":  "Aniyomi: CineCalidad",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.26"
+                       },
+                       {
+                           "id":  "provider-136",
+                           "name":  "Aniyomi: Cineplus123",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.15"
+                       },
+                       {
+                           "id":  "provider-137",
+                           "name":  "Aniyomi: Cuevana",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.55"
+                       },
+                       {
+                           "id":  "provider-138",
+                           "name":  "Aniyomi: DeTodoPeliculas",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.14"
+                       },
+                       {
+                           "id":  "provider-139",
+                           "name":  "Aniyomi: Doramasflix",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.42"
+                       },
+                       {
+                           "id":  "provider-140",
+                           "name":  "Aniyomi: Doramasyt",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.29"
+                       },
+                       {
+                           "id":  "provider-141",
+                           "name":  "Aniyomi: EnNovelas",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.27"
+                       },
+                       {
+                           "id":  "provider-142",
+                           "name":  "Aniyomi: EstrenosDoramas",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.12"
+                       },
+                       {
+                           "id":  "provider-143",
+                           "name":  "Aniyomi: FanPelis",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.20"
+                       },
+                       {
+                           "id":  "provider-144",
+                           "name":  "Aniyomi: FlixLatam",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.16"
+                       },
+                       {
+                           "id":  "provider-145",
+                           "name":  "Aniyomi: Gnula",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.40"
+                       },
+                       {
+                           "id":  "provider-146",
+                           "name":  "Aniyomi: Hackstore",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.33"
+                       },
+                       {
+                           "id":  "provider-147",
+                           "name":  "Aniyomi: Hentaijk",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.15"
+                       },
+                       {
+                           "id":  "provider-148",
+                           "name":  "Aniyomi: HentaiLA",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.42"
+                       },
+                       {
+                           "id":  "provider-149",
+                           "name":  "Aniyomi: HentaiTk",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.21"
+                       },
+                       {
+                           "id":  "provider-150",
+                           "name":  "Aniyomi: HomeCine",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.12"
+                       },
+                       {
+                           "id":  "provider-151",
+                           "name":  "Aniyomi: Jkanime",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.43"
+                       },
+                       {
+                           "id":  "provider-152",
+                           "name":  "Aniyomi: Jkhentai",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.10"
+                       },
+                       {
+                           "id":  "provider-153",
+                           "name":  "Aniyomi: Katanime",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.14"
+                       },
+                       {
+                           "id":  "provider-154",
+                           "name":  "Aniyomi: LACartoons",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.18"
+                       },
+                       {
+                           "id":  "provider-155",
+                           "name":  "Aniyomi: Latanime",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.32"
+                       },
+                       {
+                           "id":  "provider-156",
+                           "name":  "Aniyomi: LegionAnime",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.42"
+                       },
+                       {
+                           "id":  "provider-157",
+                           "name":  "Aniyomi: LocoPelis",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.33"
+                       },
+                       {
+                           "id":  "provider-158",
+                           "name":  "Aniyomi: MetroSeries",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.25"
+                       },
+                       {
+                           "id":  "provider-159",
+                           "name":  "Aniyomi: MhdFlix",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.15"
+                       },
+                       {
+                           "id":  "provider-160",
+                           "name":  "Aniyomi: MonosChinos",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.44"
+                       },
+                       {
+                           "id":  "provider-161",
+                           "name":  "Aniyomi: MundoDonghua",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.37"
+                       },
+                       {
+                           "id":  "provider-162",
+                           "name":  "Aniyomi: Otakuverso",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.9"
+                       },
+                       {
+                           "id":  "provider-163",
+                           "name":  "Aniyomi: Pandrama",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.5"
+                       },
+                       {
+                           "id":  "provider-164",
+                           "name":  "Aniyomi: PelisForte",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.41"
+                       },
+                       {
+                           "id":  "provider-165",
+                           "name":  "Aniyomi: Pelisplushd",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.82"
+                       },
+                       {
+                           "id":  "provider-166",
+                           "name":  "Aniyomi: Serieskao",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.13"
+                       },
+                       {
+                           "id":  "provider-167",
+                           "name":  "Aniyomi: SoloLatino",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.18"
+                       },
+                       {
+                           "id":  "provider-168",
+                           "name":  "Aniyomi: TioanimeH",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.30"
+                       },
+                       {
+                           "id":  "provider-169",
+                           "name":  "Aniyomi: Tiodonghua.com",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.14"
+                       },
+                       {
+                           "id":  "provider-170",
+                           "name":  "Aniyomi: VeoHentai",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.1"
+                       },
+                       {
+                           "id":  "provider-171",
+                           "name":  "Aniyomi: VerAnimes",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.17"
+                       },
+                       {
+                           "id":  "provider-172",
+                           "name":  "Aniyomi: VerSeriesOnline",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.13"
+                       },
+                       {
+                           "id":  "provider-173",
+                           "name":  "Aniyomi: zeroanime",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.7"
+                       },
+                       {
+                           "id":  "provider-174",
+                           "name":  "Aniyomi: Zonaleros",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.8"
+                       },
+                       {
+                           "id":  "provider-175",
+                           "name":  "Aniyomi: Anime-Sama",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.20"
+                       },
+                       {
+                           "id":  "provider-176",
+                           "name":  "Aniyomi: AnimeVostFr",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.2"
+                       },
+                       {
+                           "id":  "provider-177",
+                           "name":  "Aniyomi: AniSama",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.18"
+                       },
+                       {
+                           "id":  "provider-178",
+                           "name":  "Aniyomi: EmpireStreaming",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.24"
+                       },
+                       {
+                           "id":  "provider-179",
+                           "name":  "Aniyomi: FrAnime",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.20"
+                       },
+                       {
+                           "id":  "provider-180",
+                           "name":  "Aniyomi: French Anime",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.25"
+                       },
+                       {
+                           "id":  "provider-181",
+                           "name":  "Aniyomi: HDS",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.11"
+                       },
+                       {
+                           "id":  "provider-182",
+                           "name":  "Aniyomi: JetAnime",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.17"
+                       },
+                       {
+                           "id":  "provider-183",
+                           "name":  "Aniyomi: MyKdrama",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.9"
+                       },
+                       {
+                           "id":  "provider-184",
+                           "name":  "Aniyomi: OtakuFR",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.35"
+                       },
+                       {
+                           "id":  "provider-185",
+                           "name":  "Aniyomi: VoirCartoon",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.15"
+                       },
+                       {
+                           "id":  "provider-186",
+                           "name":  "Aniyomi: Vostfree",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.33"
+                       },
+                       {
+                           "id":  "provider-187",
+                           "name":  "Aniyomi: Wiflix",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.23"
+                       },
+                       {
+                           "id":  "provider-188",
+                           "name":  "Aniyomi: AniSAGA",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.26"
+                       },
+                       {
+                           "id":  "provider-189",
+                           "name":  "Aniyomi: YoMovies",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.29"
+                       },
+                       {
+                           "id":  "provider-190",
+                           "name":  "Aniyomi: AnimeIndo",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.19"
+                       },
+                       {
+                           "id":  "provider-191",
+                           "name":  "Aniyomi: Kuramanime",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.15"
+                       },
+                       {
+                           "id":  "provider-192",
+                           "name":  "Aniyomi: Kuronime",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.10"
+                       },
+                       {
+                           "id":  "provider-193",
+                           "name":  "Aniyomi: MiniOppai",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.11"
+                       },
+                       {
+                           "id":  "provider-194",
+                           "name":  "Aniyomi: NeoNime",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.18"
+                       },
+                       {
+                           "id":  "provider-195",
+                           "name":  "Aniyomi: NimeGami",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.3"
+                       },
+                       {
+                           "id":  "provider-196",
+                           "name":  "Aniyomi: Oploverz",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.26"
+                       },
+                       {
+                           "id":  "provider-197",
+                           "name":  "Aniyomi: OtakuDesu",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.36"
+                       },
+                       {
+                           "id":  "provider-198",
+                           "name":  "Aniyomi: Samehadaku",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.7"
+                       },
+                       {
+                           "id":  "provider-199",
+                           "name":  "Aniyomi: Anime Saturn",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.11"
+                       },
+                       {
+                           "id":  "provider-200",
+                           "name":  "Aniyomi: AnimeUnity",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.9"
+                       },
+                       {
+                           "id":  "provider-201",
+                           "name":  "Aniyomi: ANIMEWORLD.tv",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.54"
+                       },
+                       {
+                           "id":  "provider-202",
+                           "name":  "Aniyomi: AniPlay",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.18"
+                       },
+                       {
+                           "id":  "provider-203",
+                           "name":  "Aniyomi: Hentai Saturn",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.5"
+                       },
+                       {
+                           "id":  "provider-204",
+                           "name":  "Aniyomi: Toonitalia",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.32"
+                       },
+                       {
+                           "id":  "provider-205",
+                           "name":  "Aniyomi: VVVVID",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.1"
+                       },
+                       {
+                           "id":  "provider-206",
+                           "name":  "Aniyomi: Aniweek",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.15"
+                       },
+                       {
+                           "id":  "provider-207",
+                           "name":  "Aniyomi: desu-online",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.11"
+                       },
+                       {
+                           "id":  "provider-208",
+                           "name":  "Aniyomi: Docchi",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.6"
+                       },
+                       {
+                           "id":  "provider-209",
+                           "name":  "Aniyomi: OgladajAnime",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.4"
+                       },
+                       {
+                           "id":  "provider-210",
+                           "name":  "Aniyomi: Wbijam",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.8"
+                       },
+                       {
+                           "id":  "provider-211",
+                           "name":  "Aniyomi: Anime Fire",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.7"
+                       },
+                       {
+                           "id":  "provider-212",
+                           "name":  "Aniyomi: AnimePlayer",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.7"
+                       },
+                       {
+                           "id":  "provider-213",
+                           "name":  "Aniyomi: AnimeQ",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.2"
+                       },
+                       {
+                           "id":  "provider-214",
+                           "name":  "Aniyomi: AnimesBr",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.7"
+                       },
+                       {
+                           "id":  "provider-215",
+                           "name":  "Aniyomi: Animes CX",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.2"
+                       },
+                       {
+                           "id":  "provider-216",
+                           "name":  "Aniyomi: Animes Digital",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.4"
+                       },
+                       {
+                           "id":  "provider-217",
+                           "name":  "Aniyomi: AnimesDrive",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.4"
+                       },
+                       {
+                           "id":  "provider-218",
+                           "name":  "Aniyomi: Animes Games",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.4"
+                       },
+                       {
+                           "id":  "provider-219",
+                           "name":  "Aniyomi: Q1N",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.28"
+                       },
+                       {
+                           "id":  "provider-220",
+                           "name":  "Aniyomi: AnimesHouse",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.6"
+                       },
+                       {
+                           "id":  "provider-221",
+                           "name":  "Aniyomi: AnimesOnlineCC",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.4"
+                       },
+                       {
+                           "id":  "provider-222",
+                           "name":  "Aniyomi: AnimesOnlineCloud",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.4"
+                       },
+                       {
+                           "id":  "provider-223",
+                           "name":  "Aniyomi: AnimesOnlineVip",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.2"
+                       },
+                       {
+                           "id":  "provider-224",
+                           "name":  "Aniyomi: AnimesOtaku",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.2"
+                       },
+                       {
+                           "id":  "provider-225",
+                           "name":  "Aniyomi: AnimesROLL",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.5"
+                       },
+                       {
+                           "id":  "provider-226",
+                           "name":  "Aniyomi: Anitube",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.26"
+                       },
+                       {
+                           "id":  "provider-227",
+                           "name":  "Aniyomi: Better Anime",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.12"
+                       },
+                       {
+                           "id":  "provider-228",
+                           "name":  "Aniyomi: DarkMahou",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.11"
+                       },
+                       {
+                           "id":  "provider-229",
+                           "name":  "Aniyomi: Donghua no Sekai",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.3"
+                       },
+                       {
+                           "id":  "provider-230",
+                           "name":  "Aniyomi: Doramogo",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.11"
+                       },
+                       {
+                           "id":  "provider-231",
+                           "name":  "Aniyomi: Goyabu",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.1"
+                       },
+                       {
+                           "id":  "provider-232",
+                           "name":  "Aniyomi: HentaisTube",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.3"
+                       },
+                       {
+                           "id":  "provider-233",
+                           "name":  "Aniyomi: Muito Hentai",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.2"
+                       },
+                       {
+                           "id":  "provider-234",
+                           "name":  "Aniyomi: Pi Fansubs",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.28"
+                       },
+                       {
+                           "id":  "provider-235",
+                           "name":  "Aniyomi: Tomato",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.1"
+                       },
+                       {
+                           "id":  "provider-236",
+                           "name":  "Aniyomi: Animelib",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.10"
+                       },
+                       {
+                           "id":  "provider-237",
+                           "name":  "Aniyomi: Animevost",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.8"
+                       },
+                       {
+                           "id":  "provider-238",
+                           "name":  "Aniyomi: AnimeBalkan",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.8"
+                       },
+                       {
+                           "id":  "provider-239",
+                           "name":  "Aniyomi: Anime Srbija",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.15"
+                       },
+                       {
+                           "id":  "provider-240",
+                           "name":  "Aniyomi: Animeler",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.24"
+                       },
+                       {
+                           "id":  "provider-241",
+                           "name":  "Aniyomi: Anizm",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.35"
+                       },
+                       {
+                           "id":  "provider-242",
+                           "name":  "Aniyomi: AsyaAnimeleri",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.13"
+                       },
+                       {
+                           "id":  "provider-243",
+                           "name":  "Aniyomi: HDFilmCehennemi",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.26"
+                       },
+                       {
+                           "id":  "provider-244",
+                           "name":  "Aniyomi: HentaiZM",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.8"
+                       },
+                       {
+                           "id":  "provider-245",
+                           "name":  "Aniyomi: TRAnimeCI",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.5"
+                       },
+                       {
+                           "id":  "provider-246",
+                           "name":  "Aniyomi: TR Anime Izle",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.27"
+                       },
+                       {
+                           "id":  "provider-247",
+                           "name":  "Aniyomi: Türk Anime TV",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.42"
+                       },
+                       {
+                           "id":  "provider-248",
+                           "name":  "Aniyomi: UAKino",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.2"
+                       },
+                       {
+                           "id":  "provider-249",
+                           "name":  "Aniyomi: UFDub",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.1"
+                       },
+                       {
+                           "id":  "provider-250",
+                           "name":  "Aniyomi: Anime1.me",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.3"
+                       },
+                       {
+                           "id":  "provider-251",
+                           "name":  "Aniyomi: Hanime1",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.5"
+                       },
+                       {
+                           "id":  "provider-252",
+                           "name":  "Aniyomi: iyf",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.1"
+                       },
+                       {
+                           "id":  "provider-253",
+                           "name":  "Aniyomi: Nivod",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.1"
+                       },
+                       {
+                           "id":  "provider-254",
+                           "name":  "Aniyomi: Xfani",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.6"
+                       },
+                       {
+                           "id":  "provider-255",
+                           "name":  "Aniyomi: Xiaoxintv",
+                           "lang":  "multi",
+                           "manifestUrl":  "",
+                           "type":  "torrent",
+                           "version":  "14.1"
+                       }
+                   ]
+}

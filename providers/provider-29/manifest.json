@@ -1,0 +1,9 @@
+﻿{
+    "id":  "provider-29",
+    "name":  "Aniyomi: Torrentio Anime (Torrent / Debrid)",
+    "description":  "Torrent provider for anime",
+    "type":  "torrent",
+    "author":  "Converted",
+    "language":  "multi",
+    "version":  "14.17"
+}

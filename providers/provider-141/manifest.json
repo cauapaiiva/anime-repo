@@ -1,0 +1,9 @@
+﻿{
+    "id":  "provider-141",
+    "name":  "Aniyomi: EnNovelas",
+    "description":  "Torrent provider for anime",
+    "type":  "torrent",
+    "author":  "Converted",
+    "language":  "multi",
+    "version":  "14.27"
+}

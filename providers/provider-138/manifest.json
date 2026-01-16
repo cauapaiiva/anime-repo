@@ -1,0 +1,9 @@
+﻿{
+    "id":  "provider-138",
+    "name":  "Aniyomi: DeTodoPeliculas",
+    "description":  "Torrent provider for anime",
+    "type":  "torrent",
+    "author":  "Converted",
+    "language":  "multi",
+    "version":  "14.14"
+}

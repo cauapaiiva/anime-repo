@@ -1,0 +1,9 @@
+﻿{
+    "id":  "provider-195",
+    "name":  "Aniyomi: NimeGami",
+    "description":  "Torrent provider for anime",
+    "type":  "torrent",
+    "author":  "Converted",
+    "language":  "multi",
+    "version":  "14.3"
+}

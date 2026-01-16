@@ -1,0 +1,9 @@
+﻿{
+    "id":  "provider-50",
+    "name":  "Aniyomi: AniWorld",
+    "description":  "Torrent provider for anime",
+    "type":  "torrent",
+    "author":  "Converted",
+    "language":  "multi",
+    "version":  "14.31"
+}

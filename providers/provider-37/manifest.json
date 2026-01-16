@@ -1,0 +1,9 @@
+﻿{
+    "id":  "provider-37",
+    "name":  "Aniyomi: ArabAnime",
+    "description":  "Torrent provider for anime",
+    "type":  "torrent",
+    "author":  "Converted",
+    "language":  "multi",
+    "version":  "14.2"
+}

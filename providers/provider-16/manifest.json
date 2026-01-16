@@ -1,0 +1,9 @@
+﻿{
+    "id":  "provider-16",
+    "name":  "Aniyomi: MyReadingManga",
+    "description":  "Torrent provider for anime",
+    "type":  "torrent",
+    "author":  "Converted",
+    "language":  "multi",
+    "version":  "14.1"
+}

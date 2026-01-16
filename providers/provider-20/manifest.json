@@ -1,0 +1,9 @@
+﻿{
+    "id":  "provider-20",
+    "name":  "Aniyomi: RouVideo",
+    "description":  "Torrent provider for anime",
+    "type":  "torrent",
+    "author":  "Converted",
+    "language":  "multi",
+    "version":  "14.10"
+}

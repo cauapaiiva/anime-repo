@@ -1,0 +1,9 @@
+﻿{
+    "id":  "provider-36",
+    "name":  "Aniyomi: Animerco",
+    "description":  "Torrent provider for anime",
+    "type":  "torrent",
+    "author":  "Converted",
+    "language":  "multi",
+    "version":  "14.50"
+}

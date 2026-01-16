@@ -1,0 +1,9 @@
+﻿{
+    "id":  "provider-168",
+    "name":  "Aniyomi: TioanimeH",
+    "description":  "Torrent provider for anime",
+    "type":  "torrent",
+    "author":  "Converted",
+    "language":  "multi",
+    "version":  "14.30"
+}

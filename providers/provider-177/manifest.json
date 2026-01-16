@@ -1,0 +1,9 @@
+﻿{
+    "id":  "provider-177",
+    "name":  "Aniyomi: AniSama",
+    "description":  "Torrent provider for anime",
+    "type":  "torrent",
+    "author":  "Converted",
+    "language":  "multi",
+    "version":  "14.18"
+}

@@ -1,0 +1,9 @@
+﻿{
+    "id":  "provider-14",
+    "name":  "Aniyomi: LMAnime",
+    "description":  "Torrent provider for anime",
+    "type":  "torrent",
+    "author":  "Converted",
+    "language":  "multi",
+    "version":  "14.17"
+}

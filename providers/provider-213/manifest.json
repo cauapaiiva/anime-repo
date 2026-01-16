@@ -1,0 +1,9 @@
+﻿{
+    "id":  "provider-213",
+    "name":  "Aniyomi: AnimeQ",
+    "description":  "Torrent provider for anime",
+    "type":  "torrent",
+    "author":  "Converted",
+    "language":  "multi",
+    "version":  "14.2"
+}

@@ -1,0 +1,9 @@
+﻿{
+    "id":  "provider-247",
+    "name":  "Aniyomi: Türk Anime TV",
+    "description":  "Torrent provider for anime",
+    "type":  "torrent",
+    "author":  "Converted",
+    "language":  "multi",
+    "version":  "14.42"
+}

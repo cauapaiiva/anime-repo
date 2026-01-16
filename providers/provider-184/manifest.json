@@ -1,0 +1,9 @@
+﻿{
+    "id":  "provider-184",
+    "name":  "Aniyomi: OtakuFR",
+    "description":  "Torrent provider for anime",
+    "type":  "torrent",
+    "author":  "Converted",
+    "language":  "multi",
+    "version":  "14.35"
+}

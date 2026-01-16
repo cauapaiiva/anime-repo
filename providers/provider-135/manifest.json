@@ -1,0 +1,9 @@
+﻿{
+    "id":  "provider-135",
+    "name":  "Aniyomi: CineCalidad",
+    "description":  "Torrent provider for anime",
+    "type":  "torrent",
+    "author":  "Converted",
+    "language":  "multi",
+    "version":  "14.26"
+}

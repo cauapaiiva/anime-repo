@@ -1,0 +1,9 @@
+﻿{
+    "id":  "provider-107",
+    "name":  "Aniyomi: SuperStream",
+    "description":  "Torrent provider for anime",
+    "type":  "torrent",
+    "author":  "Converted",
+    "language":  "multi",
+    "version":  "14.11"
+}

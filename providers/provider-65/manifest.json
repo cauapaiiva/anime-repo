@@ -1,0 +1,9 @@
+﻿{
+    "id":  "provider-65",
+    "name":  "Aniyomi: Animenosub",
+    "description":  "Torrent provider for anime",
+    "type":  "torrent",
+    "author":  "Converted",
+    "language":  "multi",
+    "version":  "14.16"
+}

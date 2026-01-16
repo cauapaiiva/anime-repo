@@ -1,0 +1,9 @@
+﻿{
+    "id":  "provider-207",
+    "name":  "Aniyomi: desu-online",
+    "description":  "Torrent provider for anime",
+    "type":  "torrent",
+    "author":  "Converted",
+    "language":  "multi",
+    "version":  "14.11"
+}

@@ -1,0 +1,9 @@
+﻿{
+    "id":  "provider-73",
+    "name":  "Aniyomi: AsiaFlix",
+    "description":  "Torrent provider for anime",
+    "type":  "torrent",
+    "author":  "Converted",
+    "language":  "multi",
+    "version":  "14.25"
+}

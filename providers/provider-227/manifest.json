@@ -1,0 +1,9 @@
+﻿{
+    "id":  "provider-227",
+    "name":  "Aniyomi: Better Anime",
+    "description":  "Torrent provider for anime",
+    "type":  "torrent",
+    "author":  "Converted",
+    "language":  "multi",
+    "version":  "14.12"
+}

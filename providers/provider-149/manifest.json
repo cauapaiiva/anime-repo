@@ -1,0 +1,9 @@
+﻿{
+    "id":  "provider-149",
+    "name":  "Aniyomi: HentaiTk",
+    "description":  "Torrent provider for anime",
+    "type":  "torrent",
+    "author":  "Converted",
+    "language":  "multi",
+    "version":  "14.21"
+}
